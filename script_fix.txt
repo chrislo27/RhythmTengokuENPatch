@@ -4978,7 +4978,7 @@ I can't sell this![;
 // --- Literal
 //Marcher[;
 // --- Edited
-Marcher[;
+Marching Orders[;
 #WRITE(RtPtr, $9CE60C)
 // 0x805360c
 //行進をするのだ。[l
@@ -7941,7 +7941,7 @@ Maybe I should stick with pencils...[;
 // --- Literal
 //Polyrhythm[;
 // --- Edited
-Built to Scale[;
+Polyrhythm[;
 #WRITE(RtPtr, $9CE3CC)
 // 0x8054244
 //十字ボタンとＡボタンの同時押しをマスターだ！けっこうカンタンだ。たぶん…[;
@@ -8508,7 +8508,7 @@ Your weather forecast... rain, rain, and rain.[;
 // --- Literal
 //Hopping road[;
 // --- Edited
-Hopping Road[;
+Bouncy Road[;
 #WRITE(RtPtr, $9CE4AC)
 // 0x8053d3c
 //とんでくる丸い玉。[l
@@ -8591,7 +8591,7 @@ This is tough![;
 // --- Literal
 //Ninja[;
 // --- Edited
-Ninja[;
+Ninja Bodyguard[;
 #WRITE(RtPtr, $9CE4EC)
 // 0x8053be8
 //敵襲(てきしゅう)だ！[l
@@ -10857,7 +10857,7 @@ Eek! You messed up![;
 // --- Literal
 //Marcher 2[;
 // --- Edited
-Marcher 2[;
+Marching Orders 2[;
 #WRITE(RtPtr, $9CE62C)
 // 0x805355c
 //行進をするのだ。[l
@@ -11032,7 +11032,7 @@ Your dinosaur was... not very friendly.[;
 // --- Literal
 //Hopping Road 2[;
 // --- Edited
-Hopping Road 2[;
+Bouncy Road 2[;
 #WRITE(RtPtr, $9CE4CC)
 // 0x8053c90
 //とんでくる丸い玉。[l
@@ -11221,7 +11221,7 @@ We're completely pooped![;
 // --- Literal
 //Polyrhythm 2[;
 // --- Edited
-Built to Scale 2[;
+Polyrhythm 2[;
 #WRITE(RtPtr, $9CE3EC)
 // 0x805418c
 //これぞ左右独立！[l
@@ -15108,14 +15108,14 @@ Toss Boys[;
 // --- Literal
 //Hopping Road[;
 // --- Edited
-Hopping Road[;
+Bouncy Road[;
 #WRITE(RtPtr, $9D82EC)
 // 0x805906c
 //ポリリズム[;
 // --- Literal
 //Polyrhythm[;
 // --- Edited
-Built to Scale[;
+Polyrhythm[;
 #WRITE(RtPtr, $9D82E0)
 // 0x8059078
 //リズムお習字[;
@@ -15192,7 +15192,7 @@ Spaceball Game[;
 // --- Literal
 //Marcher[;
 // --- Edited
-Marcher[;
+Marching Orders[;
 #WRITE(RtPtr, $9D825C)
 // 0x8059114
 //まほうつかい[;
@@ -15868,14 +15868,14 @@ Mechanical Horse[h[;
 // --- Literal
 //Marcher 2[;
 // --- Edited
-Marcher 2[;
+Marching Orders 2[;
 #WRITE(RtPtr, $9DDDF4)
 // 0x8059a28
 //マーチャ[;
 // --- Literal
 //Marcher[;
 // --- Edited
-Marcher[;
+Marching Orders[;
 #WRITE(RtPtr, $9DDDEC)
 // 0x8059a34
 //まほうつかい[;
